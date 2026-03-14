@@ -67,15 +67,32 @@ const ihsannn = {
 
 ---
 
-<!-- Cute Cat Animation -->
+## 💡 Life Logic
+
+```js
+function amIHandsome(wallet) {
+  if (wallet >= 1_000_000_000) {
+    return "✨ Otomatis ganteng, tampan, dan memesona";
+  } else {
+    return "😔 Ya enggak ganteng lah...";
+  }
+}
+
+// Realita hidup yang menyakitkan
+console.log(amIHandsome(mySaldo));
+```
+
+---
+
+<!-- 2D Cute Animation Section -->
 <div align="center">
 <br/>
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" alt="cute cat"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="100" alt="cute cat typing"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" alt="cute cat"/>
+<img src="https://media.giphy.com/media/l3vR1pBCRBMYoEDfy/giphy.gif" width="110" alt="2d cute animation"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/26ufcYAkp8e6bHAPI/giphy.gif" width="110" alt="2d cute animation"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/l3vR1pBCRBMYoEDfy/giphy.gif" width="110" alt="2d cute animation"/>
 
 <br/><br/>
 
@@ -86,26 +103,15 @@ const ihsannn = {
 
 ---
 
-### 🌙 *" ajari hatimu untuk menerima semua kekecewaan bahkan dari orang yang kau cintai dan tetaplah jadi orang setia"*
-
-*`— Ihsannn`*
-
----
-
-</div>
+### 🌙 *" Ajari hatimu untuk menerima semua kekecewaan,bahkan dari orang yang kau cintai dan tetaplah jadi orang yang setia. "*
 
 <br/>
 
-## 📫 Connect With Me
-
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/Telegram-Shannyiee-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Shannyiee)
-[![Instagram](https://img.shields.io/badge/Instagram-abcde__2803-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abcde_2803)
-
-</div>
+*`— R.M Imam Koesoepangat.`*
 
 ---
+
+</div>
 
 <div align="center">
 
